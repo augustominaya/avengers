@@ -1,3 +1,4 @@
 # nuevas misiones
 
-hay que investigar a un nuevo villano
+* hay que investigar a un nuevo villano
+* captura a Red Skull
